@@ -5,6 +5,22 @@
 ### You can use it to better control your daily household chores.
 To-do list where you can enter the tasks you have to do. You can also mark tasks that have already been done and hide them.
 
+## DEMO
+
+![todos-list]https://raw.githubusercontent.com/MarcinBialek1983/todos-list-react/28e10c968ffac189fcc942ee40104f82c3ef52ef/public/image/todos-list%20photp.jpg
+
+https://marcinbialek1983.github.io/todos-list-react/
+
+## Technologies and conventions used in the project:
+- HTML
+- Java Script
+- CSS
+- BEM
+- Grig
+- Immutability
+- React
+- ES6+ Features
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
