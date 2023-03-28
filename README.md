@@ -9,7 +9,7 @@ To-do list where you can enter the tasks you have to do. You can also mark tasks
 
 ### This is a preview of how the app works.
 
-![todos-list]https://github.com/MarcinBialek1983/todos-list-react/blob/gh-pages/image/ezgif.com-crop.gif?raw=true
+![todos-list] (https://github.com/MarcinBialek1983/todos-list-react/blob/gh-pages/image/ezgif.com-crop.gif?raw=true)
 
 ### This is the website address
 
