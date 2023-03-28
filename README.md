@@ -8,25 +8,27 @@ To-do list where you can enter the tasks you have to do. You can also mark tasks
 ## DEMO
 
 This is a preview of how the app works.
+
 ![todos-list] (https://github.com/MarcinBialek1983/todos-list-react/blob/gh-pages/image/ezgif.com-crop.gif?raw=true)
 
-This is the website address
+This is the website address:
+
 https://marcinbialek1983.github.io/todos-list-react/
 
 ## Technologies and conventions used in the project:
 
-HTML
-Java Script
-CSS
-BEM
-Grig
-Immutability
-React
-ES6+ Features
-Getting Started with Create React App
-This project was bootstrapped with Create React App.
+- HTML
+- Java Script
+- CSS
+- BEM
+- Grig
+- Immutability
+- React
+- ES6+ Features
+- Getting Started with Create React App
+- This project was bootstrapped with Create React App.
 
-Available Scripts
+Available Scripts: 
 In the project directory, you can run:
 
 npm start
