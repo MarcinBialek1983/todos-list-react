@@ -7,7 +7,7 @@ To-do list where you can enter the tasks you have to do. You can also mark tasks
 
 ## DEMO
 
-![todos-list](https://raw.githubusercontent.com/MarcinBialek1983/todos-list-react/28e10c968ffac189fcc942ee40104f82c3ef52ef/public/image/todos-list%20photp.jpg)
+![todos-list]https://github.com/MarcinBialek1983/todos-list-react/blob/gh-pages/image/ezgif.com-crop.gif?raw=true
 
 https://marcinbialek1983.github.io/todos-list-react/
 
