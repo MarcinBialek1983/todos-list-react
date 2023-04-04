@@ -26,6 +26,6 @@
 
 .buttons__button:hover{
     color: hsl(180, 100%, 35%);
-    transform: scale(1.2);
+
 }
 
