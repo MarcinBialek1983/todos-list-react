@@ -9,7 +9,7 @@ To-do list where you can enter the tasks you have to do. You can also mark tasks
 
 ### This is a preview of how the app works.
 
-[Lista-zadań] (https://i.postimg.cc/wM9jr4KW/Lista-zada.gif)
+[Lista-zadań] (src\Lista-zadań.gif)
 
 ### This is the website address
 
